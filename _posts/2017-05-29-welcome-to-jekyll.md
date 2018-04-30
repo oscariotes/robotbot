@@ -3,8 +3,8 @@ layout: post
 title:  "House and Lot Bloomfield Teresa Rizal 2 beds and 1 bath"
 date:   2017-05-29 15:02:21 +0800
 image:
-  feature: bloomfield_teresa_feature.jpg
-  teaser: bloomfield_teresa_teaser.jpg
+      teaser: bloomfield_teresa_teaser.jpg
+      feature: bloomfield_teresa_feature.jpg
 categories: Teresa
 ---
 - Location: Brgy. San Roque, Antipolo City
