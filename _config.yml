@@ -3,7 +3,8 @@
 title: "SamutSaring Bahay at Lupa"
 description: "Affordable House and Lot or Townhouses for sale in Rizal"
 logo: # 120x120 px default image used for Twitter summary card
-teaser: # 400x250 px default teaser image used in image archive grid
+teaser:  400x250 px default teaser image used in image archive grid
+feature: 1024x256 px 
 locale: en
 url: https://oscariotes.github.io/robotbot
 feed:
