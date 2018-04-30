@@ -5,8 +5,15 @@ date:   2017-05-29 15:02:21 +0800
 image:
       teaser: bloomfield_teresa_teaser.jpg
       feature: bloomfield_teresa_feature.jpg
+      feature: <img src="https://mmistakes.github.io/skinny-bones-jekyll/images/image-filename-1.jpg">
 categories: Teresa
 ---
+
+
+Subdivison Name: Bloomfield Teresa
+Developer: Shaugnessy 
+Location: Bagumbayan Teresa Rizal
+
 - Location: Brgy. San Roque, Antipolo City
 - Lot Area: 52 sqm
 - Floor Area: 83 sqm
