@@ -13,7 +13,6 @@ categories: Teresa
 - Bedroom: 4
 - Toilet & Bath: 2
 
-
 - Total Contract Price: 2,775,000.00
 - Reservation Fee: 20,000.00
 - Equity: 535,00 @20%
