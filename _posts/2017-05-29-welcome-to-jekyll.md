@@ -10,7 +10,7 @@ categories: Teresa
 
 
 Subdivison Name: Bloomfield Teresa
-Developer: Shaugnessy 
+Developer: Shaugnessy
 Location: Bagumbayan Teresa Rizal
 
 - Location: Brgy. San Roque, Antipolo City
@@ -26,3 +26,5 @@ Location: Bagumbayan Teresa Rizal
 - Max.Terms: 20 Years
 - Monthly Amortization: 16,552.00
 - Financing: Bank Only
+- test some more
+- test 2
