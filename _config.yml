@@ -28,10 +28,10 @@ gems:
 # Site owner
 owner: SamutSari Hub
 name: Larry Suico
-  email: larrysuico2@gmail.com
-  twitter: https://twitter.com/samutsarihub
-  facebook: https://www.facebook.com/samutsarihub
-  google:
+email: larrysuico2@gmail.com
+twitter: https://twitter.com/samutsarihub
+facebook: https://www.facebook.com/samutsarihub
+google:
     ad-client:
     ad-slot:
   bio:
