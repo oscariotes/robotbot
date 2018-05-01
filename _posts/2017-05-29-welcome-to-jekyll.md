@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: default
 title:  "House and Lot Bloomfield Teresa Rizal 2 beds and 1 bath"
-date:   2017-05-29 
+date:   2017-05-29
 image:
 teaser: bloomfield_teresa_teaser.jpg
 feature: bloomfield_teresa_feature.jpg
