@@ -1,9 +1,9 @@
 # Site wide configuration
 title: "SamutSaring Bahay at Lupa"
 description: "Affordable House and Lot or Townhouses for sale in Rizal"
-logo: bahay2.jpg # 120x120 px default image used for Twitter summary card
-teaser: 400x250 px default teaser image used in image archive grid
-feature: 1024x256 px
+logo: #bahay2.jpg # 120x120 px default image used for Twitter summary card
+teaser: #400x250 px default teaser image used in image archive grid
+feature: #1024x256 px
 locale: en
 url: https://oscariotes.github.io/robotbot
 feed:
@@ -14,10 +14,10 @@ feed:
 sass:
   sass_dir: _sass
   style: compressed
-permalink: /:categories/:title/
+  permalink: /:categories/:title/
 kramdown:
   toc_levels: 1..2
-highlighter: rouge
+  highlighter: rouge
 gems:
   - jekyll-sitemap
   - jekyll-gist
@@ -25,17 +25,18 @@ gems:
 
 
 # Site owner
-owner: SamutSari Hub
+owner: SamutSariHub
 name: Larry Suico
 email: larrysuico2@gmail.com
 twitter: https://twitter.com/samutsarihub
 facebook: https://www.facebook.com/samutsarihub
+google: https://plus.google.com/b/104221817068710997861/
 google:
     ad-client:
-    ad-slot:
-  bio:
-  avatar: bio-photo.jpg # 160x160 px image for author byline
-  disqus-shortname:
+    ad-slot:    
+    bio: laklak ng laklak
+    avatar: bio.jpg  #160x160 px image for author byline
+    disqus-shortname:
 include:
   - .htaccess
 exclude:
